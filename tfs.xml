@@ -1,0 +1,32 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <map>
+        <server uri="http://icwtfsdb01vg:8080/tfs/">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials type="NtlmNative">
+                  <password />
+                </credentials>
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+        <server uri="http://icwtfsdb01vg:8080/tfs/CWD.Playground/">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials type="NtlmNative">
+                  <domain>MHG</domain>
+                  <password />
+                  <username>sclark8</username>
+                </credentials>
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+      </map>
+    </option>
+  </component>
+</application>

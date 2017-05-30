@@ -18,8 +18,9 @@
           <value>
             <configuration>
               <credentials>
-                <credentials>
+                <credentials type="NtlmNative">
                   <domain>MHG</domain>
+                  <password />
                   <username>sclark8</username>
                 </credentials>
               </credentials>

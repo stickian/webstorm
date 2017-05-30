@@ -6,8 +6,9 @@
           <value>
             <configuration>
               <credentials>
-                <credentials type="NtlmNative">
-                  <password />
+                <credentials>
+                  <domain>mhg</domain>
+                  <username>sclark8</username>
                 </credentials>
               </credentials>
             </configuration>
@@ -17,9 +18,8 @@
           <value>
             <configuration>
               <credentials>
-                <credentials type="NtlmNative">
+                <credentials>
                   <domain>MHG</domain>
-                  <password />
                   <username>sclark8</username>
                 </credentials>
               </credentials>

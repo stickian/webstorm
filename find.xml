@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Exclude Generated Files" />
-    <option name="defaultScopeName" value="Exclude Generated Files" />
-    <option name="SEARCH_SCOPE" value="Exclude Generated Files" />
+    <option name="customScope" value="Excluded Find Folders" />
+    <option name="defaultScopeName" value="Excluded Find Folders" />
+    <option name="SEARCH_SCOPE" value="Excluded Find Folders" />
   </component>
 </application>

@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Excluded Find Folders" />
-    <option name="defaultScopeName" value="Excluded Find Folders" />
-    <option name="SEARCH_SCOPE" value="Excluded Find Folders" />
+    <option name="customScope" value="Source Code" />
+    <option name="defaultScopeName" value="Source Code" />
+    <option name="SEARCH_SCOPE" value="Source Code" />
   </component>
 </application>

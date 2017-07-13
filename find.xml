@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Source Code" />
     <option name="defaultScopeName" value="Source Code" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Source Code" />
   </component>
 </application>
